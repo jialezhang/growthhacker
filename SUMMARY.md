@@ -5,3 +5,5 @@
   * [Section1.2](mkt/section1.2.md)
 * [Operation](operation/README.md)
 * [Tool](tool/README.md)
+  * [Windows](tool/windows.md)
+  * [Mac](tool/mac.md)
